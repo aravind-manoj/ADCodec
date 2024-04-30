@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Encode**: Convert any File into a Picture.
+- **Encode**: Convert any file into a picture.
 - **Decode**: Retrieve the original file from the encoded picture.
 
 ## Installation
