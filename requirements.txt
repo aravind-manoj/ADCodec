@@ -1,5 +1,5 @@
 futures
 tqdm
 qrcode
-opencv
+opencv-python
 opencv-contrib-python
