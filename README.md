@@ -29,4 +29,4 @@ pip install -r requirements.txt
 
 ## Contributors
 
-*[Tims Tittus](https://github.com/TimsTittus)
+@[Tims Tittus](https://github.com/TimsTittus)
