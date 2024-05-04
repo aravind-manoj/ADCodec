@@ -1,6 +1,6 @@
 # ADCodec
 
-**ADCodec is a simple tool that transforms data from conventional file formats into advanced image code. Whether it's encrypting sensitive information for secure transmission or concealing files within images for covert communication, ADCodec offers a seamless solution.ADCodec ensures data integrity while enabling efficient decoding back to its original format.**
+**ADCodec is a tool to convert data from files into Advanced Image Code. It can encode all types of data/files into image format and can decode from the image format to its original format while ensuring the data integrity.**
 
 ## Features
 
